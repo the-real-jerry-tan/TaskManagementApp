@@ -2,7 +2,7 @@
 # Task Management App with Collaborative Features
 
 ## Project Overview
-This project, created by **Jerry Tan**, is a real-time task management app built with **Next.js**, **React**, **TypeScript**, and a backend powered by **Express** with **MongoDB**. It features task boards, real-time updates using **Socket.io**, user authentication, and task labeling.
+This project is a real-time task management app built with **Next.js**, **React**, **TypeScript**, and a backend powered by **Express** with **MongoDB**. It features task boards, real-time updates using **Socket.io**, user authentication, and task labeling.
 
 ## Features
 - **Real-Time Collaboration**: Users can create and update tasks in real time with changes reflected for all connected users.
