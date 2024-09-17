@@ -1,0 +1,21 @@
+
+{
+  "name": "task-management-app-frontend",
+  "version": "1.0.0",
+  "description": "A real-time task management app frontend built with Next.js and TypeScript.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "^4.4.4",
+    "@types/react": "^17.0.0",
+    "socket.io-client": "^4.0.1"
+  },
+  "author": "Jerry Tan",
+  "license": "MIT"
+}
